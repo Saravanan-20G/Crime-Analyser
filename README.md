@@ -13,32 +13,32 @@ arrest_rates.csv: Arrest rates by crime type.
 domestic_vs_non_domestic.csv: Comparison of domestic and non-domestic incidents.
 # Analysis Details
 ## Temporal Analysis
-1.Annual Trends:
+### 1.Annual Trends:
 
 Visualize the number of crimes reported each year.
 Identify trends and patterns over the years.
-Monthly Trends:
+### 2.Monthly Trends:
 
 Visualize the number of crimes reported each month across different years.
 Identify seasonal patterns in crime incidents.
-Peak Crime Hours:
+### 3.Peak Crime Hours:
 
 Analyze the distribution of crimes by the hour of the day.
 Identify peak hours when crimes are more likely to occur.
-Geospatial Analysis
-Heatmap of Crime Locations:
+## Geospatial Analysis
+### Heatmap of Crime Locations:
 Visualize crime incidents on a map using a heatmap.
 Identify hotspots and areas with high crime density.
-Crime Type Analysis
-Distribution of Crime Types:
+## Crime Type Analysis
+### 1.Distribution of Crime Types:
 
 Visualize the distribution of different types of crimes.
 Identify the most common and least common crime types.
-Arrest Rates by Crime Type:
+### 2.Arrest Rates by Crime Type:
 
 Analyze the arrest rates for different types of crimes.
 Identify crime types with high or low arrest rates.
-Arrest and Domestic Incident Analysis
+## Arrest and Domestic Incident Analysis
 Arrest Rates:
 
 Calculate the arrest rates for various crime types.
@@ -47,3 +47,5 @@ Domestic vs. Non-Domestic Crimes:
 
 Compare the number of domestic and non-domestic crime incidents.
 Identify patterns and trends in domestic crimes.
+# Conclusion
+This project provides a comprehensive analysis of crime data in Chicago. The insights gained from this analysis can help in understanding crime patterns, identifying hotspots, and evaluating the effectiveness of law enforcement. The visualizations and data generated can be used by policymakers, law enforcement agencies, and researchers to develop strategies for crime prevention and intervention.
